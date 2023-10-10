@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ujjwal shandilya  
-- 👀 I’m interested in artifial intelligence and machine learning.
+- 👀 I’m good with artifial intelligence and machine learning coding.
 - 🌱 I’m currently studing in International university of applied science germany.
-- 📫 How to reach me on my mail ujjshan@gmail.com
+- 📫 you can reach me on my mail ujjshan@gmail.com
 
 <!---
 ujjshan/ujjshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
